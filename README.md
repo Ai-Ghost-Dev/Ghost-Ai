@@ -3,9 +3,9 @@
 <div align="center">
   <img src="https://b.top4top.io/p_3809oq4yr0.jpg" alt="IMAGE" width="500"/>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-ELSHABAH-blue?style=for-the-badge&logo=github)](https://github.com/deveni0)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201554582851)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v)
+  [![GitHub](https://img.shields.io/badge/GitHub-ELSHABAH-blue?style=for-the-badge&logo=github)](https://github.com/Ai-Ghost-Dev)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201105414026)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6ev9nAInPdVPJfcT3Y)
  
   
   **A simple WhatsApp bot with a framework [MeowSab](https://github.com/deveni0/ws)** 
