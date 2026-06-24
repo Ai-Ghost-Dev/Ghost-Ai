@@ -78,7 +78,7 @@ npm start
 
 <div align="center">
 
-**Made with ❤️ by [ELSHABAH Owner](https://github.com/deveni0)**
+**Made with ❤️ by [ELSHABAH Owner](https://github.com/Ai-Ghost-Dev)**
 
 **© 2026 GHOST AI- All Rights Reserved**
 
